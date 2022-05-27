@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.achuanle.plugindemogradle.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.achuanle.plugindemogradle.MyBundle
 
 class MyApplicationService {
 
